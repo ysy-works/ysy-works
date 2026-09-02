@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="유소연 | AI Engineer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="YSY Works | AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
   <a href="https://ysy-works.github.io/clipiary-site/"><img src="https://img.shields.io/badge/Clipiary-15537A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Clipiary" /></a>
 </p>
 
-## 안녕하세요, 유소연입니다
+## 안녕하세요, YSY Works입니다
 
-문제를 세밀하게 확인하고 기준을 세운 뒤, 다른 사람이 다시 활용할 수 있는 형태로 정리하는 방식으로 일합니다. 서울대학교 대학원에서 실험 조건과 결과를 교차 검증하는 법을 익혔고, 9년 6개월간 온라인 쇼핑몰을 운영하며 고객의 모호한 요구와 반복되는 문제를 상품 정보와 업무 기준으로 바꾸어 왔습니다.
+문제를 세밀하게 확인하고 기준을 세운 뒤, 다른 사람이 다시 활용할 수 있는 형태로 정리하는 방식으로 일합니다. 서울대학교 대학원에서 실험 조건과 결과를 교차 검증하는 법을 익혔고, 10여 년의 온라인 쇼핑몰 운영을 통해 고객의 모호한 요구와 반복되는 문제를 상품 정보와 업무 기준으로 바꾸어 왔습니다.
 
 지금은 이 습관을 문서 데이터 파이프라인, RAG, 컴퓨터비전과 생성형 AI 서비스 구현에 적용하고 있습니다. 기능이 작동하는 데서 멈추지 않고 실제 데이터와 사용 과정에서 결과를 다시 확인하며, 발견한 문제는 직접 서비스와 도구로 풀어냅니다.
 
