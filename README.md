@@ -5,26 +5,15 @@
 <p align="center">
   <a href="https://blog.naver.com/enteroo_"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Blog" /></a>
   <a href="https://formatpop.com/"><img src="https://img.shields.io/badge/FormatPop-F46F65?style=for-the-badge&logoColor=white" alt="FormatPop" /></a>
-  <a href="https://ysy-works.github.io/clipiary-site/"><img src="https://img.shields.io/badge/Clipiary-15537A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Clipiary" /></a>
+  <a href="https://chromewebstore.google.com/detail/ncgdefffeajkfpdfeahbgddobabpbhem"><img src="https://img.shields.io/badge/Clipiary-15537A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Clipiary" /></a>
+  <a href="mailto:contact@formatpop.com"><img src="https://img.shields.io/badge/Contact-334155?style=for-the-badge&logoColor=white" alt="Contact" /></a>
 </p>
 
 ## ABOUT ME
 
-### 안녕하세요, YSY Works입니다
+생명공학 분야의 석사 연구와 10여 년의 온라인 쇼핑몰 운영을 거쳐, 지금은 LLM·RAG와 컴퓨터비전, 생성형 AI를 활용해 데이터를 서비스로 연결하고 있습니다. 연구 과정에서는 가설과 결과를 교차 검증하는 법을, 쇼핑몰에서는 고객의 요구를 제품과 운영 방식으로 구체화하는 법을 익혔습니다.
 
-문제를 세밀하게 확인하고 기준을 세운 뒤, 다른 사람이 다시 활용할 수 있는 형태로 정리하는 방식으로 일합니다. 서울대학교 대학원에서 실험 조건과 결과를 교차 검증하는 법을 익혔고, 10여 년의 온라인 쇼핑몰 운영을 통해 고객의 모호한 요구와 반복되는 문제를 상품 정보와 업무 기준으로 바꾸어 왔습니다.
-
-지금은 이 습관을 문서 데이터 파이프라인, RAG, 컴퓨터비전과 생성형 AI 서비스 구현에 적용하고 있습니다. 기능이 작동하는 데서 멈추지 않고 실제 데이터와 사용 과정에서 결과를 다시 확인하며, 발견한 문제는 직접 서비스와 도구로 풀어냅니다.
-
-### 일하는 방식
-
-| 구조화 | 검증 |
-| --- | --- |
-| 복잡한 정보와 모호한 요구에서 문제의 핵심과 판단 기준을 찾고, 데이터 구조와 실행 단위로 구체화합니다. | 정보를 폭넓게 확인한 뒤 필요한 근거를 선별하고, 결과가 기준에 맞는지는 실제 데이터와 사용 과정에서 직접 확인합니다. |
-
-| 실행 | 협업 |
-| --- | --- |
-| 새로운 모델과 오픈소스의 흐름을 꾸준히 살피고, 필요한 기술은 직접 사용해 본 뒤 서비스와 도구에 적용합니다. | 상대의 말을 충분히 듣고 결정 기준과 진행 상황을 공유해, 팀이 같은 방향으로 판단하고 움직이도록 조율합니다. |
+새로운 도구를 업무에 적용하는 과정에서 생성형 AI를 접했고, 자료 조사와 콘텐츠 제작을 넘어 반복되는 불편을 직접 해결할 수 있다는 가능성에 관심을 갖게 됐습니다. 이후 AI 교육과 세 차례의 팀 프로젝트를 통해 데이터 분석, 머신러닝·딥러닝, 문서 처리와 서비스 구현 경험을 쌓았습니다. 현재는 문서 구조를 살린 RAG 검색 데이터 구축과 FormatPop·Clipiary·트레이딩 뉴스 모니터링 사이트 개발을 이어가고 있습니다.
 
 ## 대표 프로젝트
 
@@ -47,11 +36,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://ysy-works.github.io/clipiary-site/"><img src="./assets/clipiary-capture.png" alt="Clipiary" width="100%" /></a>
+      <a href="https://chromewebstore.google.com/detail/ncgdefffeajkfpdfeahbgddobabpbhem"><img src="./assets/clipiary-capture.png" alt="Clipiary" width="100%" /></a>
       <h3>Clipiary</h3>
       <p>웹과 SNS에서 필요한 본문·댓글·미디어를 원래 순서와 출처대로 기기에 보관하는 개인 지식 아카이브입니다.</p>
-      <p><b>담당</b> 1인 기획·개발, 로컬 저장 구조와 검수 기준 설계<br /><b>현재</b> Chrome Web Store 심사 진행 중</p>
-      <p><a href="https://ysy-works.github.io/clipiary-site/">제품 안내 보기 →</a></p>
+      <p><b>담당</b> 1인 기획·개발, 로컬 저장 구조와 검수 기준 설계<br /><b>현재</b> Chrome Web Store 배포·개선 중</p>
+      <p><a href="https://chromewebstore.google.com/detail/ncgdefffeajkfpdfeahbgddobabpbhem">Chrome 웹스토어에서 설치 →</a><br /><a href="https://ysy-works.github.io/clipiary-site/">제품·개인정보 안내 보기 →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ysy-works/ad-creator"><img src="./assets/pickmood-hero.png" alt="Pickmood" width="100%" /></a>
@@ -89,11 +78,13 @@
 ## 지금 하고 있는 일
 
 - 실제 문서에서 발견한 구조 손실을 반영하며 **FormatPop**의 변환 품질 개선
-- 웹 자료를 맥락과 함께 다시 활용할 수 있도록 **Clipiary** 개발·배포 준비
+- 웹 자료를 맥락과 함께 다시 활용할 수 있도록 **Clipiary** 배포 후 기능 개선
 - 정치·경제·세계 뉴스를 모아 검색하고, 조건에 맞는 새 기사를 알려 주는 **트레이딩 뉴스 모니터링 사이트** 개발
 - GitHub·Hugging Face·공식 문서에서 새로운 모델과 오픈소스의 흐름을 확인하고 필요한 기술을 프로젝트에 적용
 - 부트캠프에서 정리한 AI 학습 기록과 프로젝트 회고를 [블로그](https://blog.naver.com/enteroo_)에 축적
 
 ---
+
+<p align="center">공식 문의: <a href="mailto:contact@formatpop.com">contact@formatpop.com</a></p>
 
 <p align="center">문제를 발견하는 데서 멈추지 않고, 실제로 사용할 수 있는 결과까지 이어가겠습니다.</p>
