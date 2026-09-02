@@ -31,7 +31,7 @@
       <h3>FormatPop</h3>
       <p>HWP/HWPX의 문단·표·병합 셀 구조 보존을 우선해 편집 가능한 Word로 변환하는 웹 서비스입니다.</p>
       <p><b>담당</b> 1인 기획·개발·배포·운영<br /><b>현재</b> 실제 문서의 구조 손실 사례를 반영하며 개선 중</p>
-      <p><a href="https://formatpop.com/">서비스 보기 →</a></p>
+      <p><a href="https://formatpop.com/">서비스 보기 →</a><br /><a href="https://github.com/ysy-works/formatpop-showcase">프로젝트 소개 보기 →</a></p>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
       <h3>Clipiary</h3>
       <p>웹과 SNS에서 필요한 본문·댓글·미디어를 원래 순서와 출처대로 기기에 보관하는 개인 지식 아카이브입니다.</p>
       <p><b>담당</b> 1인 기획·개발, 로컬 저장 구조와 검수 기준 설계<br /><b>현재</b> Chrome Web Store 배포·개선 중</p>
-      <p><a href="https://chromewebstore.google.com/detail/ncgdefffeajkfpdfeahbgddobabpbhem">Chrome 웹스토어에서 설치 →</a><br /><a href="https://ysy-works.github.io/clipiary-site/">제품·개인정보 안내 보기 →</a></p>
+      <p><a href="https://chromewebstore.google.com/detail/ncgdefffeajkfpdfeahbgddobabpbhem">Chrome 웹스토어에서 설치 →</a><br /><a href="https://github.com/ysy-works/clipiary-site">프로젝트 소개 보기 →</a><br /><a href="https://ysy-works.github.io/clipiary-site/">제품·개인정보 안내 보기 →</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ysy-works/ad-creator"><img src="./assets/pickmood-hero.png" alt="Pickmood" width="100%" /></a>
