@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">YSY Works | AI Engineer</title>
-  <desc id="desc">복잡한 문제를 구조화하고, 실제 결과로 검증해 서비스로 연결합니다.</desc>
+  <title id="title">YSY Works | 프로젝트와 작업 기록</title>
+  <desc id="desc">문서 데이터와 AI 서비스 프로젝트의 작업 기록입니다.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#111827"/>
@@ -25,7 +25,7 @@
   <circle cx="1000" cy="135" r="9" fill="#C084FC"/>
   <circle cx="1180" cy="128" r="9" fill="#2DD4BF"/>
   <text x="70" y="72" fill="#A5B4FC" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="22" font-weight="700" letter-spacing="1">문서 데이터 · RAG · 컴퓨터비전 · 생성형 AI</text>
-  <text x="70" y="150" fill="#FFFFFF" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="56" font-weight="800">YSY Works <tspan fill="#67E8F9" font-size="31" font-weight="700">AI Engineer</tspan></text>
+  <text x="70" y="150" fill="#FFFFFF" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="56" font-weight="800">YSY Works</text>
   <rect x="70" y="180" width="92" height="6" rx="3" fill="url(#line)"/>
-  <text x="70" y="238" fill="#E5E7EB" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="27" font-weight="500">복잡한 문제를 구조화하고, 실제 결과로 검증해 서비스로 연결합니다.</text>
+  <text x="70" y="238" fill="#E5E7EB" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="27" font-weight="500">프로젝트와 작업 기록</text>
 </svg>

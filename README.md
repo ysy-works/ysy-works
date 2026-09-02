@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="YSY Works | AI Engineer" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="YSY Works | 프로젝트와 작업 기록" width="100%" />
 </p>
 
 <p align="center">
