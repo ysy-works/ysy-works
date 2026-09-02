@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">제안요청서 기반 RAG 입찰 지원</title>
+  <desc id="desc">HWP와 PDF 문서를 HWPX XML 구조와 JSONL 검색 코퍼스로 변환해 RAG 검색으로 연결합니다.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EEF2FF"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#312E81" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#bg)"/>
+  <text x="70" y="90" fill="#312E81" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="30" font-weight="800">RFP RAG</text>
+  <text x="70" y="140" fill="#334155" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="25" font-weight="600">문서의 표·수치·출처 관계를 살린 검색 데이터 구축</text>
+  <g filter="url(#shadow)" font-family="'Noto Sans KR','Malgun Gothic',sans-serif">
+    <rect x="65" y="235" width="210" height="160" rx="22" fill="#FFFFFF"/>
+    <text x="170" y="300" text-anchor="middle" fill="#4F46E5" font-size="25" font-weight="800">HWP · PDF</text>
+    <text x="170" y="346" text-anchor="middle" fill="#64748B" font-size="19">원문 수집</text>
+    <rect x="355" y="235" width="210" height="160" rx="22" fill="#FFFFFF"/>
+    <text x="460" y="300" text-anchor="middle" fill="#6D28D9" font-size="25" font-weight="800">HWPX · XML</text>
+    <text x="460" y="346" text-anchor="middle" fill="#64748B" font-size="19">문단·표 구조 추출</text>
+    <rect x="645" y="235" width="210" height="160" rx="22" fill="#FFFFFF"/>
+    <text x="750" y="300" text-anchor="middle" fill="#0F766E" font-size="25" font-weight="800">JSONL</text>
+    <text x="750" y="346" text-anchor="middle" fill="#64748B" font-size="19">검색 코퍼스</text>
+    <rect x="935" y="235" width="210" height="160" rx="22" fill="#FFFFFF"/>
+    <text x="1040" y="300" text-anchor="middle" fill="#0E7490" font-size="25" font-weight="800">RAG</text>
+    <text x="1040" y="346" text-anchor="middle" fill="#64748B" font-size="19">근거 검색·답변</text>
+  </g>
+  <g stroke="#94A3B8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M285 315 H335"/><path d="M325 303 L338 315 L325 327"/>
+    <path d="M575 315 H625"/><path d="M615 303 L628 315 L615 327"/>
+    <path d="M865 315 H915"/><path d="M905 303 L918 315 L905 327"/>
+  </g>
+  <rect x="65" y="465" width="1080" height="95" rx="18" fill="#FFFFFF" opacity="0.84"/>
+  <text x="605" y="523" text-anchor="middle" fill="#334155" font-family="'Noto Sans KR','Malgun Gothic',sans-serif" font-size="23" font-weight="700">구조 보존 · 출처 추적 · 검색 품질 개선</text>
+</svg>
