@@ -29,8 +29,8 @@
     <td width="50%" valign="top">
       <a href="https://formatpop.com/"><img src="./assets/formatpop-og.png" alt="FormatPop" width="100%" /></a>
       <h3>FormatPop</h3>
-      <p>HWP/HWPX의 문단·표·병합 셀 구조 보존을 우선해 편집 가능한 Word로 변환하는 웹 서비스입니다.</p>
-      <p><b>담당</b> 1인 기획·개발·배포·운영<br /><b>현재</b> 실제 문서의 구조 손실 사례를 반영하며 개선 중</p>
+      <p>HWP·HWPX의 문단·표·병합 셀 구조 보존에 특화된 문서 변환 서비스로, PDF·이미지 작업과 한글·워드 문서 뷰어, 파일 나란히 보기를 포함한 29가지 도구를 제공합니다.</p>
+      <p><b>담당</b> 1인 기획·개발·배포·운영<br /><b>핵심 구현</b> PDF 변환 시 원본의 위치 정보에 따라 고정 배치와 흐름 배치를 선택해 내용 누락과 레이아웃 손상을 줄였습니다.<br /><b>검증</b> 개인정보가 없는 자체 제작 예제와 회귀 테스트로 문단·표·그림·페이지 경계를 비교합니다.</p>
       <p><a href="https://formatpop.com/">서비스 보기 →</a><br /><a href="https://github.com/ysy-works/formatpop-showcase">프로젝트 소개 보기 →</a></p>
     </td>
   </tr>
